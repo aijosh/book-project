@@ -1,1 +1,3 @@
-This is a chapter one
+This is chapter one of my book
+Thanks for the tutorial
+Try me again 
