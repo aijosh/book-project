@@ -2,3 +2,5 @@ This is chapter one of my book
 Thanks for the tutorial
 Try me again 
 So
+
+This edit was added after typing the add command
